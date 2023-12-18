@@ -1,0 +1,29 @@
+body{background-color:yellowgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.card{
+    height: 500px;
+    width: 500px;
+    background-color:lightcoral;
+    border-radius: 20px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+p{
+font-size: 25px;
+}
+.input{
+    height: 25px;
+    width: 200px;
+    border-radius: 20px;
+    text-align: center;
+
+
+}
